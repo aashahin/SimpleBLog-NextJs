@@ -15,7 +15,7 @@ export default function Layout({children}){
             </main>
             <footer className="bg-gray-900 mt-8 py-4">
                 <div className="container mx-auto flex justify-center text-white">
-                    &copy; 2022 Abdelrahman Shaheen
+                    &copy; 2023 Abdelrahman Shaheen
                 </div>
             </footer>
         </div>
