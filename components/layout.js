@@ -7,7 +7,7 @@ export default function Layout({children}){
                 <div className="container mx-auto flex justify-center text-white">
                     <Link href="/">Home</Link>
                     <span className="mx-auto">Abdelrahman Shaheen</span>
-                    <a target="_blank" href="https://github.com/aashahin">Source Code</a>
+                    <a target="_blank" href="https://github.com/aashahin/SimpleBLog-NextJs">Source Code</a>
                 </div>
             </header>
             <main className="container mx-auto flex-1">
